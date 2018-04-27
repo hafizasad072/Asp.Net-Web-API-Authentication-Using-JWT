@@ -18,6 +18,6 @@ This library contain EDMX, DB Context and Entity classes.
 
 ### Get Books
 Request Type: GET  
-URL: http://localhost:60917/api/AttendanceConfig/GetAllSetup 
-Request Header: Authorization = Bearer Generated Token here
+URL: http://localhost:60917/api/AttendanceConfig/GetAllSetup  
+ Request Header: Authorization = Bearer Generated Token here
 
